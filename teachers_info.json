@@ -1,0 +1,307 @@
+{
+    "g1": {
+        "余行旺": {
+            "_id": "yu_xingwang",
+            "subject": "语文",
+            "classes": ["1"]
+        },
+        "翟平": {
+            "_id": "zhai_ping",
+            "subject": "语文",
+            "classes": ["2"]
+        },
+        "肖雪玮": {
+            "_id": "xiao_xuewei",
+            "subject": "语文",
+            "classes": ["3", "5"]
+        },
+        "魏文华": {
+            "_id": "wei_wenhua",
+            "subject": "语文",
+            "classes": ["4", "7"]
+        },
+        "吴亚美": {
+            "_id": "wu_yamei",
+            "subject": "语文",
+            "classes": ["6"]
+        },
+        "陈敏": {
+            "_id": "chen_min",
+            "subject": "语文",
+            "classes": ["8"]
+        },
+        "靳巧玲": {
+            "_id": "jin_qiaoling",
+            "subject": "语文",
+            "classes": ["9", "12"]
+        },
+        "刘诗雅": {
+            "_id": "liu_shiya",
+            "subject": "语文",
+            "classes": ["10"]
+        },
+        "陈雨湉": {
+            "_id": "chen_yutian",
+            "subject": "语文",
+            "classes": ["11"]
+        },
+        "高运中": {
+            "_id": "gao_yunzhong",
+            "subject": "数学",
+            "classes": ["1"]
+        },
+        "丁龙倩": {
+            "_id": "ding_longqian",
+            "subject": "数学",
+            "classes": ["2", "4"]
+        },
+        "刘雅琪": {
+            "_id": "liu_yaqi",
+            "subject": "数学",
+            "classes": ["3", "10"]
+        },
+        "张明琪": {
+            "_id": "zhang_mingqi",
+            "subject": "数学",
+            "classes": ["5", "11"]
+        },
+        "迪达尔": {
+            "_id": "di_daer",
+            "subject": "数学",
+            "classes": ["6"]
+        },
+        "吴净净": {
+            "_id": "wu_jingjing",
+            "subject": "数学",
+            "classes": ["7"]
+        },
+        "向欣": {
+            "_id": "xiang_xin",
+            "subject": "数学",
+            "classes": ["8", "9"]
+        },
+        "詹赢": {
+            "_id": "zhan_ying",
+            "subject": "数学",
+            "classes": ["12"]
+        },
+        "张江峰": {
+            "_id": "zhang_jiangfeng",
+            "subject": "外语",
+            "classes": ["1"]
+        },
+        "田蜜蜜": {
+            "_id": "tian_mimi",
+            "subject": "外语",
+            "classes": ["2", "7"]
+        },
+        "时冉": {
+            "_id": "shi_ran",
+            "subject": "外语",
+            "classes": ["3", "8"]
+        },
+        "张品": {
+            "_id": "zhang_pin",
+            "subject": "外语",
+            "classes": ["4", "5"]
+        },
+        "胡显军": {
+            "_id": "hu_xianjun",
+            "subject": "外语",
+            "classes": ["6", "9"]
+        },
+        "余文乐": {
+            "_id": "yu_wenle",
+            "subject": "外语",
+            "classes": ["10"]
+        },
+        "秦惠娟": {
+            "_id": "qin_huijuan",
+            "subject": "外语",
+            "classes": ["11"]
+        },
+        "安可欣": {
+            "_id": "an_kexin",
+            "subject": "外语",
+            "classes": ["12"]
+        },
+        "赵金菊": {
+            "_id": "zhao_jinju",
+            "subject": "物理",
+            "classes": ["1", "5", "9", "10"]
+        },
+        "陆晴雯": {
+            "_id": "lu_qingwen",
+            "subject": "物理",
+            "classes": ["2", "4", "7", "11"]
+        },
+        "蒋勤政": {
+            "_id": "jiang_qinzheng",
+            "subject": "物理",
+            "classes": ["3", "6", "8", "12"]
+        },
+        "许炎浩": {
+            "_id": "xu_yanhao",
+            "subject": "化学",
+            "classes": ["1", "9"]
+        },
+        "周丽洁": {
+            "_id": "zhou_lijie",
+            "subject": "化学",
+            "classes": ["2", "6"]
+        },
+        "彭晶": {
+            "_id": "peng_jing",
+            "subject": "化学",
+            "classes": ["3", "7"]
+        },
+        "谭梦蝶": {
+            "_id": "tan_mengdie",
+            "subject": "化学",
+            "classes": ["4", "5"]
+        },
+        "李家栋": {
+            "_id": "li_jiadong",
+            "subject": "化学",
+            "classes": ["8", "11"]
+        },
+        "沈幼清": {
+            "_id": "shen_youqing",
+            "subject": "化学",
+            "classes": ["10", "12"]
+        },
+        "曾晴": {
+            "_id": "zeng_qing",
+            "subject": "生物",
+            "classes": ["1", "2", "10"]
+        },
+        "孙江涛": {
+            "_id": "sun_jiangtao",
+            "subject": "生物",
+            "classes": ["3", "4", "5"]
+        },
+        "王秋慧": {
+            "_id": "wang_qiuhui",
+            "subject": "生物",
+            "classes": ["6", "8", "12"]
+        },
+        "胡昕": {
+            "_id": "hu_xin",
+            "subject": "生物",
+            "classes": ["7", "9", "11"]
+        },
+        "李嫣": {
+            "_id": "li_yan",
+            "subject": "政治",
+            "classes": ["1", "3", "10", "11", "12"]
+        },
+        "付博剑": {
+            "_id": "fu_bojian",
+            "subject": "政治",
+            "classes": ["2", "5", "9"]
+        },
+        "张伟": {
+            "_id": "zhang_wei",
+            "subject": "政治",
+            "classes": ["4", "6", "7", "8"]
+        },
+        "宋雅丽": {
+            "_id": "song_yali",
+            "subject": "历史",
+            "classes": ["1", "2", "3", "6", "7", "8", "9", "12"]
+        },
+        "陈辉": {
+            "_id": "chen_hui",
+            "subject": "历史",
+            "classes": ["4", "5"]
+        },
+        "李翠华": {
+            "_id": "li_cuihua",
+            "subject": "历史",
+            "classes": ["10", "11"]
+        },
+        "吴玲": {
+            "_id": "wu_ling",
+            "subject": "地理",
+            "classes": ["1", "4", "6", "7", "10", "11"]
+        },
+        "杨利敏": {
+            "_id": "yang_limin",
+            "subject": "地理",
+            "classes": ["2", "3", "5", "8", "9", "12"]
+        },
+        "李密": {
+            "_id": "li_mi",
+            "subject": "体育",
+            "classes": ["1", "2", "3"]
+        },
+        "黄玉婷": {
+            "_id": "huang_yuting",
+            "subject": "体育",
+            "classes": ["4", "5", "6", "7"]
+        },
+        "张刚强": {
+            "_id": "zhang_gangqiang",
+            "subject": "体育",
+            "classes": ["8", "9", "10", "11", "12"]
+        },
+        "徐琰": {
+            "_id": "xu_yan",
+            "subject": "心理",
+            "classes": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]
+        }
+    },
+    "g2": [],
+    "g3": {
+        "吴玲": {
+            "_id": "wu_ling",
+            "subject": "地理",
+            "classes": ["6", "9"]
+        },
+        "宋雅丽": {
+            "_id": "song_yali",
+            "subject": "历史",
+            "classes": ["6", "9"]
+        },
+        "佘进军": {
+            "_id": "she_jinjun",
+            "subject": "政治",
+            "classes": ["6", "10", "16"]
+        },
+        "王小勇": {
+            "_id": "wang_xiaoyong",
+            "subject": "数学",
+            "classes": ["1", "6"]
+        },
+        "屈美琪": {
+            "_id": "qu_meiqi",
+            "subject": "语文",
+            "classes": ["6", "7"]
+        },
+        "余文乐": {
+            "_id": "yu_wenle",
+            "subject": "外语",
+            "classes": ["9", "15"]
+        },
+        "李嫣": {
+            "_id": "li_yan",
+            "subject": "政治",
+            "classes": ["9", "13", "15"]
+        },
+        "黄澳": {
+            "_id": "huang_ao",
+            "subject": "数学",
+            "classes": ["9", "10"]
+        },
+        "陈敏": {
+            "_id": "chen_min",
+            "subject": "语文",
+            "classes": ["9", "11"]
+        },
+        "陈燕": {
+            "_id": "chen_yan",
+            "subject": "外语",
+            "classes": ["4", "6"]
+        }
+    }
+}
